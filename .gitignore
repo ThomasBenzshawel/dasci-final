@@ -5,6 +5,7 @@ __pycache__/
 
 # Filter out dataset.csv
 dataset.csv
+dataset_with_genre_no-stopwords.csv
 
 # C extensions
 *.so
